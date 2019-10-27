@@ -1,2 +1,1 @@
-# embedded_linux
-make buildroot for somlabs_nxp
+practise with embedded linux
